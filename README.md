@@ -71,7 +71,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ANANDKUMAR0911/ANANDKUMAR0911/output/neon-snake-dark.svg" />
 </p>
 
 ---
