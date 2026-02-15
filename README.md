@@ -60,21 +60,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANANDKUMAR0911&theme=algolia&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ANANDKUMAR0911/ANANDKUMAR0911/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
 ### 💬 Dev Quote
 
 <p align="center">
